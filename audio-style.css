@@ -1,0 +1,30 @@
+
+
+.a {
+  text-align: center;
+}
+.title {
+  text-align: center;
+}
+.button {
+  margin: 0 auto;
+  display: block;
+}
+.text {
+  margin: 0 auto;
+  display: block;
+}
+audio {
+  margin: 0 auto;
+  display: block;
+}
+.bot {
+  margin: 0 auto;
+ text-align: center;
+}
+.fa-arrow-left {
+  margin-right: 30px;
+}
+.m {
+  text-align: center;
+}
